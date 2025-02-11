@@ -14,7 +14,7 @@ ADMIN_USER_ID = 7353797869
 MONGO_URI = "mongodb+srv://Kamisama:Kamisama@kamisama.m6kon.mongodb.net/"
 DB_NAME = "Roxz"
 COLLECTION_NAME = "users"
-ATTACK_TIME_LIMIT = 200  # Maximum attack duration in seconds
+ATTACK_TIME_LIMIT = 240  # Maximum attack duration in seconds
 COINS_REQUIRED_PER_ATTACK = 5  # Coins required for an attack
 
 # MongoDB setup
