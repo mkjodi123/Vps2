@@ -9,7 +9,7 @@ attack_in_progress = False
 current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
-TELEGRAM_BOT_TOKEN = '8041759338:AAH20fwSvxqTwZmFIBi9kZoZnb9CGDRntJU'
+TELEGRAM_BOT_TOKEN = '8041759338:AAFmvzs_v5VYfuxApmc7SsGlyZN105y3-98'
 ADMIN_USER_ID = 7353797869
 MONGO_URI = "mongodb+srv://Kamisama:Kamisama@kamisama.m6kon.mongodb.net/"
 DB_NAME = "Roxz"
